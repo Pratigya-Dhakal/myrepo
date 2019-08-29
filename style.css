@@ -1,0 +1,90 @@
+/*--body{
+	background-image:url(dcs.jpg);
+	background-repeat: no-repeat;
+	width:100%;
+	background-position:fixed;
+	height:100%;
+	background-size: cover;
+}*/
+body{
+background-color: #2B3136;
+}
+img{
+	margin-top: 7%;
+	margin-left: 38%;
+	border:1px solid;
+	height: 25%;
+	width: 25%;
+	vertical-align: middle;
+}
+    p{
+    font-size: 20px;
+    letter-spacing: 5px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+    color: white;
+    font-weight: 500;
+     display: block;
+     margin-left: 45%;
+   
+   
+    }
+    h1{
+
+    letter-spacing:8px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+    color: white;
+    font-weight: 500;
+     display: block;
+     margin-left: 45%;
+
+   
+    }
+    h2{
+        font-size:70px;
+        letter-spacing: 5px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+        text-transform: capitalize;
+        color: white;
+        font-weight: 500;
+        display: block;
+        margin-left: 41%;
+    }
+    .contact{  []
+     letter-spacing: 5px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: white;
+    font-weight: 500;
+     display: block;
+     margin-left: 45%;
+    }
+    .span{
+        color: white;
+     }
+    a{
+        text-decoration: none;
+        color: white;
+
+    }
+    
+    .number:hover{
+        cursor: pointer;
+    }
+  
+    .mail:hover{
+        cursor: pointer;
+
+    }
+    span.nn { display: none; }
+    span:hover .n { display: none; }
+    span:hover .nn{ display: inline; }
+            
+    span.ma { display: none; }
+    span:hover .mai { display: none; }
+    span:hover .ma{ display: inline; }
+    
